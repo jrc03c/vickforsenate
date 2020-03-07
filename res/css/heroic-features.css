@@ -1,0 +1,62 @@
+/*!
+ * Start Bootstrap - Heroic Features (https://startbootstrap.com/template-overviews/heroic-features)
+ * Copyright 2013-2019 Start Bootstrap
+ * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap-heroic-features/blob/master/LICENSE)
+ */
+body {
+  padding-top: 56px;
+}
+
+
+header {
+	color: white;
+}
+
+#mybackground {
+	background-image:
+		linear-gradient(
+			rgba(0, 0, 0, 0.5),
+			rgba(0, 0, 0, 0.5)
+		),
+		url('/img/banner-blue1.jpg');
+
+}
+
+#mybackground h2 {
+	color: white;
+	margin: 0;
+}			
+
+.navbar {
+    min-height: 40px;
+}
+
+.navbar-light .navbar-nav .nav-link  {
+    color: white;
+    
+}
+
+.navbar-light .navbar-brand {
+    color: white;
+    height: 40px;
+    line-height: 40px;
+    padding: 0 15px;
+}
+
+.navbar-light .navbar-nav .active > .nav-link {
+    color: white;
+}
+
+.nav-link a:hover {
+    color: #a8a632 ;
+}
+    
+
+
+
+body {
+  margin: 30px;
+  text-align: left;
+}
+
+

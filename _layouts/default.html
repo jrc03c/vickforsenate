@@ -1,0 +1,67 @@
+<DOCTYPE !html>
+<html>
+  <head>
+    <title>Robert Vick for TX-SD22</title>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <title>Robert Vick for TX-SD22</title>
+    <link rel="shortcut icon" href="/favicon.ico" />
+
+    <!-- Page Thumbnails -->
+    <link rel="image_src" type="image/jpeg" href="https://vickforsenate.com" />
+
+    <!-- Open Graph Tags (for Facebook) -->
+    {% if thumbnail %}
+      <meta property="og:image" content="https://vickforsenate.com/res/img/{{ thumbnail }}" />
+    {% else %}
+      <meta property="og:image" content="https://vickforsenate.com/res/img/banner-equalized.jpg" />
+    {% endif %}
+
+    <meta property="og:site_name" content="Robert Vick for TX-SD22" />
+
+    {% if title %}
+      <meta property="og:title" content="{{ title }}" />
+    {% else %}
+      <meta property="og:title" content="Robert Vick for TX-SD22" />
+    {% endif %}
+
+    <meta property="og:url" content="https://vickforsenate.com{{ request.get_full_path }}" />
+    <meta property="og:description" content="Robert Vick for Texas Senate District 22" />
+
+    <!-- Twitter Card Tags -->
+    <meta name="twitter:card" content="summary_large_image" />
+
+    {% if title %}
+      <meta name="twitter:title" content="{{ title }}" />
+    {% else %}
+      <meta name="twitter:title" content="Robert Vick for TX-SD22" />
+    {% endif %}
+
+    <meta name="twitter:description" content="Robert Vick for Texas Senate District 22" />
+    <meta name="twitter:url" content="https://vickforsenate.com{{ request.get_full_path }}" />
+
+    {% if thumbnail %}
+      <meta name="twitter:image" content="https://vickforsenate.com/res/img/{{ thumbnail }}" />
+    {% else %}
+      <meta name="twitter:image" content="https://vickforsenate.com/res/img/banner-equalized.jpg" />
+    {% endif %}
+
+    <link href="https://fonts.googleapis.com/css?family=Barlow|Zilla+Slab:400,700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" type="text/css" href="/res/css/bulma.min.css">
+    <link rel="stylesheet" type="text/css" href="/res/css/custom.css">
+  </head>
+  <body>
+    {% include navbar.html %}
+    {{ content }}
+    {% include footer.html %}
+
+    <!-- Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-156545454-1"></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+      gtag('config', 'UA-156545454-1');
+    </script>
+  </body>
+</html>

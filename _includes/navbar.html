@@ -1,0 +1,60 @@
+<section class="section has-background-info header-section">
+  <div class="container">
+    <nav class="navbar is-info" role="navigation" aria-label="main navigation">
+      <div class="navbar-brand">
+        <a class="navbar-item" href="/">Robert Vick for Texas Senate</a>
+
+        <a role="button" class="navbar-burger burger" aria-label="menu" aria-expanded="false" data-target="navbar-menu">
+          <span aria-hidden="true"></span>
+          <span aria-hidden="true"></span>
+          <span aria-hidden="true"></span>
+        </a>
+      </div>
+
+      <div class="navbar-menu">
+        <div class="navbar-start"></div>
+
+        <div class="navbar-end">
+          <a class="navbar-item" href="/">Home</a>
+          <a class="navbar-item" href="/meet-robert">Meet Robert</a>
+
+          <div class="navbar-item has-dropdown is-hoverable">
+            <a class="navbar-link navbar-item">Positions</a>
+
+            <div class="navbar-dropdown">
+              <a class="navbar-item" href="/positions/strong-public-education-policies">Strong Public Education Policies</a>
+              <a class="navbar-item" href="/positions/healthcare">Healthcare</a>
+              <a class="navbar-item" href="/positions/labor-rights">Labor Rights</a>
+              <a class="navbar-item" href="/positions/support-for-teachers">Support for Teachers</a>
+              <a class="navbar-item" href="/positions/cannabis-reform">Cannabis Reform</a>
+              <a class="navbar-item" href="/positions/environmental-priorities">Environmental Priorities</a>
+              <a class="navbar-item" href="/positions/gun-violence-prevention">Gun Violence Prevention</a>
+              <a class="navbar-item" href="/positions/criminal-justice-reform">Criminal Justice Reform</a>
+              <a class="navbar-item" href="/positions/encouraging-democracy">Encouraging Democracy</a>
+            </div>
+          </div>
+
+          <a class="navbar-item has-background-warning has-text-grey-dark" href="https://secure.actblue.com/donate/vick-for-senate-1">Donate!</a>
+        </div>
+      </div>
+    </nav>
+  </div>
+</section>
+
+<script>
+  let burger = document.getElementsByClassName("burger")[0]
+  let menu = document.getElementsByClassName("navbar-menu")[0]
+  let isExpanded = false
+
+  burger.addEventListener("click", function(event){
+    isExpanded = !isExpanded
+
+    if (isExpanded){
+      burger.classList.add("is-active")
+      menu.classList.add("is-active")
+    } else {
+      burger.classList.remove("is-active")
+      menu.classList.remove("is-active")
+    }
+  })
+</script>
