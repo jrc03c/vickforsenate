@@ -4,6 +4,21 @@ layout: default
 
 <section class="section">
   <div class="container">
+    {% if page.banner %}
+    	<p>
+    		<img src="{{ page.banner }}">
+    	</p>
+
+    	<hr>
+    {% endif %}
+
+    <p>
+      <b>{{ page.title }}</b><br>
+      <i>{{ page.date | date:"%B %-d, %Y" }}</i>
+    </p>
+
+    <hr>
+
     {{ content }}
   </div>
 </section>
