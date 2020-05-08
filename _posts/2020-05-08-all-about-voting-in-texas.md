@@ -2,6 +2,8 @@
 layout: post
 title: All About Voting In Texas
 author: Robert Vick
+thumbnail: /res/img/flags-square.jpg
+banner: /res/img/flags-wide.jpg
 ---
 Okay, you are fed up with the Boomers ruining the earth, the economy, and your future. But what can you do about it? Glad you asked...
 
