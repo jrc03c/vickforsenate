@@ -1,8 +1,8 @@
 <style>
   /* NOTE: These styles have to be here because they reference a static path! All of the other styles pertaining to these elements is in the custom.css file. Sorry for any confusion! */
  .hero {
-  {% if page.thumbnail %}
-    background: url("{{ page.thumbnail }}") center center !important;
+  {% if page.banner %}
+    background: url({{ page.banner }}) center center !important;
   {% else %}
     background: url("/res/img/banner-equalized.jpg") center center !important;
   {% endif%}
