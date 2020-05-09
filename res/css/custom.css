@@ -15,13 +15,30 @@ p {
   margin-bottom: 1.5rem;
 }
 
-ul {
+ul, ol {
   margin-bottom: 1.5rem;
 }
 
-li {
+li ol, li ul {
+  margin-bottom: 0;
+}
+
+ul > li {
   list-style: disc;
-  margin-left: 1.5rem;
+  margin-left: 2rem;
+}
+
+ol > li {
+  list-style-type: decimal;
+  margin-left: 2rem;
+}
+
+ol ol > li {
+  list-style-type: lower-alpha;
+}
+
+ol ol ol > li {
+  list-style-type: lower-roman;
 }
 
 .header-section {
