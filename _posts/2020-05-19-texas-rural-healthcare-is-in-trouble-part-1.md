@@ -2,21 +2,23 @@
 layout: post
 title: Texas Rural Healthcare is in Trouble - Part 1
 author: May 19, 2020
+thumbnail: /res/img/thumb-virus-4931227_1280.jpg
+banner: /res/img/banner-surgery-79584_1280.jpg
 summary: ""
 ---
-I'm Robert Vick, candidate for the Texas State Senate, running to represent Senate District 22 (SD-22), a predominately rural district. There are nine rural counties in the District, all located south of Dallas/Fort Worth. 
+I'm Robert Vick, candidate for the Texas State Senate, running to represent Senate District 22 (SD-22), a predominantly rural district. There are nine rural counties in the District, all located south of Dallas/Fort Worth. 
 
-PIC1 
+![](/res/img/pic1-superdelegate-robert-vick2.jpg)
 
 Rural Texans face unique challenges – many of which are very different from those faced by our city-dwelling cousins. And one of those differences is in *access* - access to doctors, specialists, facilities, emergency rooms, ICU’s, and specialized treatments. 
 
-PIC2 
+![](/res/img/pic2-crutches-538883_960_720.jpg)
 
 **Access to Healthcare Practitioners** - In Dallas or Fort Worth, or any big city, there are hundreds, if not thousands of doctors to choose from. True, typical insurance plans, whether through your job or through private insurers generally restrict you to a subset of all doctors – their “network”. But there are still dozens to choose from. And not just General Practitioners, but specialists, too.
 
 In our rural counties though, you are faced with far less choice, as well as very limited access to specialists. Long drives to the nearest orthopedic specialist, physical therapist, or oncologist represent major disruptions to your day and act as a barrier to obtaining healthcare. The shortage of these doctors and other practitioners is made worse when they lose the facilities that support their practices. When a hospital closes, the community loses medical professionals. That brings up the following topic.
 
-PIC 3 
+![](/res/img/pic-3-hospital-1636334_1280.jpg)
 
 **Access to Healthcare Facilities** - The nearest hospital may be a fair drive away. Inconvenient? Yes, but maybe even deadly in an emergency. Doctors talk of the “golden hour” for heart attack patients. That is, if the patient doesn’t receive care within 60 minutes of the attack, their chances of survival become greatly reduced. But every year more rural hospitals close and your access to that life-saving care gets further away.
 
@@ -31,15 +33,15 @@ In fact, the closures and at-risk hospitals are heavily clustered in the 14 stat
 
 In Texas, expansion would make 1.2 million more people eligible for Medicaid, according to a 2018 *Kaiser Family Foundation* analysis. An *Urban Institute* study in 2014 estimated that not expanding Medicaid would deprive Texas hospitals of $34.3 billion in federal reimbursements by 2024.
 
-PIC4 
+![](/res/img/pic4-dollar-2891817_1280.jpg)
 
 Where does the money for those reimbursements come from? Taxes. Texans pay their federal taxes, yet by not expanding Medicaid eligibility, that tax money never makes it back to Texas from Washington. Instead, it is shared with the states that DID expand Medicaid eligibility. 
 
-**So Texans pay for their hospitals twice** – once in the federal taxes that are NOT returned to Texas because we haven’t expanded Medicaid and a second time when we pay higher premiums, copays, and hospital taxes to make up for that same shortfall.
+**So Texans pay for their hospitals twice** – once in the federal taxes that are NOT returned to Texas because we haven’t expanded Medicaid and a second time when we pay higher premiums, co-pays, and hospital taxes to make up for that same shortfall.
 
 Rural Texans tend to be older, in poorer health, and less insured than those living elsewhere. This combination often results in a greater share of uncompensated care for rural hospitals. Without health insurance, low-income people are less likely to get preventive care, which often results in worsening health conditions. Frequently they are in need of emergency care and that brings them to hospitals where they are guaranteed treatment. Under federal law, hospitals must stabilize and treat anyone showing up at the emergency room, regardless of their ability to pay. Rural hospitals are forced to absorb those costs. But unlike bigger urban hospitals, their patient volumes and operating margins are so low that uncompensated care burdens can be crippling.
 
-PIC 5 
+![](/res/img/pic5-thomas-leemon-4yzomgk0v1q-unsplash.jpg)
 
 The loss of rural hospitals not only means patients having to travel longer distances or delay accessing health care, but the closures can often have a crippling effect on the local economy. For example, Goodall-Witcher Hospital is the largest employer in Bosque County. Its payroll alone is bigger than the county’s entire budget. Imagine what it would do to the Bosque county economy to suddenly lose $9 million year.
 
