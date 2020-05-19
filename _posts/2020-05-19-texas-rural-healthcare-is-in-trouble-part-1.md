@@ -8,8 +8,6 @@ summary: ""
 ---
 I'm Robert Vick, candidate for the Texas State Senate, running to represent Senate District 22 (SD-22), a predominantly rural district. There are nine rural counties in the District, all located south of Dallas/Fort Worth. 
 
-![]()
-
 Rural Texans face unique challenges – many of which are very different from those faced by our city-dwelling cousins. And one of those differences is in *access* - access to doctors, specialists, facilities, emergency rooms, ICU’s, and specialized treatments. 
 
 ![](/res/img/pic2-crutches-538883_960_720.jpg)
