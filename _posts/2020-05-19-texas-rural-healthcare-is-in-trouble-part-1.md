@@ -3,7 +3,7 @@ layout: post
 title: Texas Rural Healthcare is in Trouble - Part 1
 author: May 19, 2020
 thumbnail: ""
-banner: ""
+banner: /res/img/banner-1587351021766-957e6e0efb66.jpg
 summary: ""
 ---
 I'm Robert Vick, candidate for the Texas State Senate, running to represent Senate District 22 (SD-22), a predominantly rural district. There are nine rural counties in the District, all located south of Dallas/Fort Worth. 
