@@ -78,6 +78,13 @@ img {
   margin-bottom: 1rem;
 }
 
+.post img {
+  border: 0;
+  border-radius: 4px;
+  max-width: 100%;
+  margin-bottom: 0;
+}
+
 .column.has-left-border {
   padding-left: 1.5rem;
   margin-left: 1.5rem;
