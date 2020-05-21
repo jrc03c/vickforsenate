@@ -2,15 +2,15 @@
 layout: post
 title: Texas Rural Healthcare is in Trouble - Part 1
 author: May 19, 2020
-thumbnail: ""
+thumbnail: /res/img/banner-1587351021766-957e6e0efb66.jpg
 banner: /res/img/banner-1587351021766-957e6e0efb66.jpg
 summary: ""
 ---
-I'm Robert Vick, candidate for the Texas State Senate, running to represent Senate District 22 (SD-22), a predominantly rural district. There are nine rural counties in the District, all located south of Dallas/Fort Worth. 
+I'm Robert Vick, candidate for the Texas State Senate, running to represent Senate District 22 (SD-22), a predominantly rural district. There are nine rural counties in the District, all located south of Dallas/Fort Worth.
 
 ![](/res/img/pic1b-superdelegate-robert-vick2.jpg)
 
-Rural Texans face unique challenges – many of which are very different from those faced by our city-dwelling cousins. And one of those differences is in *access* - access to doctors, specialists, facilities, emergency rooms, ICU’s, and specialized treatments. 
+Rural Texans face unique challenges – many of which are very different from those faced by our city-dwelling cousins. And one of those differences is in *access* - access to doctors, specialists, facilities, emergency rooms, ICU’s, and specialized treatments.
 
 ![](/res/img/pic2-crutches-538883_960_720.jpg)
 
@@ -27,7 +27,7 @@ Consider...
 * Falls Community Hospital, located in Marlin, is a small 36-bed facility struggling to remain open. In December of last year two nearby hospitals, one almost 40 miles away and one 60 miles away closed. A trip to the hospital can easily be a 100 mile round trip for some area residents. The closings were the latest in a trend that has seen 21 rural Texas hospitals close in the last 6 years. There are only 160 rural hospitals still operating in Texas, and this is just one that is in danger of shutting its doors for good.
 * Goodall-Witcher in Clifton, which also operates two community health clinics and a nursing home, risked closing until residents of Bosque County voted last year to create a hospital taxing district. The additional taxes will bring the hospital an estimated $2.5 million a year and perhaps take it out of the red, but they won’t necessarily lift Goodall-Witcher out of financial peril.  
 
-These are just two of more than 600 rural U. S. hospitals that are at risk of closing, according to a recent report by *iVantage Health Analytics*. In their study, Texas had more hospitals in danger of closing than any other state. Almost half (75) of Texas rural hospitals are hanging on by a thread. 
+These are just two of more than 600 rural U. S. hospitals that are at risk of closing, according to a recent report by *iVantage Health Analytics*. In their study, Texas had more hospitals in danger of closing than any other state. Almost half (75) of Texas rural hospitals are hanging on by a thread.
 
 In fact, the closures and at-risk hospitals are heavily clustered in the 14 states that have not expanded Medicaid eligibility to its low-income residents under the Affordable Care Act. Texas' decision to not expand Medicaid has deprived rural hospitals, which already operate with the slimmest of margins, the resources that could be the difference between survival and closure.
 
@@ -35,7 +35,7 @@ In Texas, expansion would make 1.2 million more people eligible for Medicaid, ac
 
 ![](/res/img/pic4-dollar-2891817_1280.jpg)
 
-Where does the money for those reimbursements come from? Taxes. Texans pay their federal taxes, yet by not expanding Medicaid eligibility, that tax money never makes it back to Texas from Washington. Instead, it is shared with the states that DID expand Medicaid eligibility. 
+Where does the money for those reimbursements come from? Taxes. Texans pay their federal taxes, yet by not expanding Medicaid eligibility, that tax money never makes it back to Texas from Washington. Instead, it is shared with the states that DID expand Medicaid eligibility.
 
 **So Texans pay for their hospitals twice** – once in the federal taxes that are NOT returned to Texas because we haven’t expanded Medicaid and a second time when we pay higher premiums, co-pays, and hospital taxes to make up for that same shortfall.
 
@@ -47,9 +47,9 @@ The loss of rural hospitals not only means patients having to travel longer dist
 
 A *Health Services Research* journal report found that when a rural area’s only hospital closes, income per capita falls by 4 percent and unemployment rises by 1.6 percent.
 
-Texans pay billions in taxes that help pay for Medicaid expansion in the 36 States, plus DC, that chose to expand Medicaid. The results in those expansion states are encouraging. Expansion saved local taxpayers money, slowed and almost eliminated the closure of rural hospitals, and provided on-going health care to 17 million people. 
+Texans pay billions in taxes that help pay for Medicaid expansion in the 36 States, plus DC, that chose to expand Medicaid. The results in those expansion states are encouraging. Expansion saved local taxpayers money, slowed and almost eliminated the closure of rural hospitals, and provided on-going health care to 17 million people.
 
-The failure of Texas to expand Medicaid is not practical, logical or humane - the failure is the result of a failed political philosophy not grounded in facts. 
+The failure of Texas to expand Medicaid is not practical, logical or humane - the failure is the result of a failed political philosophy not grounded in facts.
 
 Medicaid expansion is one of the key things we could do to deal with the tough financial demands rural residents and hospitals face. And result in a healthier overall population.
 
