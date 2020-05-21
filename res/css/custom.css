@@ -85,6 +85,10 @@ img {
   margin-bottom: 0;
 }
 
+.columns-wrapping {
+  flex-wrap: wrap;
+}
+
 .column.has-left-border {
   padding-left: 1.5rem;
   margin-left: 1.5rem;
