@@ -44,6 +44,32 @@
     {{ content }}
     {% include footer.html %}
 
+    <!-- ClipboardJS (for sharing) -->
+    <script src="https://cdn.jsdelivr.net/npm/clipboard@1/dist/clipboard.min.js"></script>
+    <script>
+      // copy to clipboard
+      let interval
+
+      new Clipboard(".copy-button", {
+        text: function(){
+          if (interval) clearInterval(interval)
+          let messages = document.getElementsByClassName("copied-to-clipboard-message")
+
+          for (let i=0; i<messages.length; i++){
+            messages[i].style.display = "inline"
+          }
+
+          interval = setInterval(function(){
+            for (let i=0; i<messages.length; i++){
+              messages[i].style.display = "none"
+            }
+          }, 3000)
+
+          return "{{ url }}";
+        },
+      });
+    </script>
+
     <!-- Google Analytics -->
     <script async src="https://www.googletagmanager.com/gtag/js?id=UA-156545454-1"></script>
     <script>
