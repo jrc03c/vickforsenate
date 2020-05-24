@@ -2,7 +2,7 @@
 layout: post
 title: Texas Rural Healthcare is in Trouble - Part 1
 author: May 19, 2020
-thumbnail: /res/img/banner-1587351021766-957e6e0efb66.jpg
+thumbnail: /res/img/thumb.png
 banner: /res/img/banner-1587351021766-957e6e0efb66.jpg
 summary: ""
 ---
