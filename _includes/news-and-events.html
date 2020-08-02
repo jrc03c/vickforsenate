@@ -1,0 +1,30 @@
+<div>
+  <h1 class="title is-3">
+    News & Events
+    <img src="res/img/bullhorn.png" class="icon-inline">
+  </h1>
+
+  <p>
+    Here are important things that have been going on and events that are coming up!
+  </p>
+
+  <ul>
+    {% for post in site.posts %}
+    {% if post.isNews == true %}
+    <li>
+      <b>
+        {{ post.date | date:"%B %-d, %Y" }}:
+
+        <a href="{{ post.url }}">
+          {{ post.title }}
+        </a>
+      </b>
+
+      {% if post.summary.size > 0 %}
+      — {{ post.summary }}
+      {% endif %}
+    </li>
+    {% endif %}
+    {% endfor %}
+  </ul>
+</div>

@@ -20,3 +20,4 @@ collections:
           - {label: "Banner Image", name: "banner", widget: "image", required: false}
           - {label: "Summary", name: "summary", widget: "string", required: false}
           - {label: "Body", name: "body", widget: "markdown"}
+          - {label: "Should appear in the 'News & Events' section of the home page?", name: "isNews", widget: "boolean", default: false, required: false}
