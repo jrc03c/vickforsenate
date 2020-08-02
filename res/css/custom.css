@@ -196,6 +196,10 @@ img.icon-inline {
   top: calc(0.25 * 1.5em);
 }
 
+iframe {
+  max-width: 100%;
+}
+
 @media (max-width: 960px) {
   .header-section {
     padding: 0;
