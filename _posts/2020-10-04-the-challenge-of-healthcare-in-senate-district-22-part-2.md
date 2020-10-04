@@ -2,14 +2,16 @@
 layout: post
 title: The Challenge of Healthcare in Senate District 22 - Part 2
 author: October 3, 2020
-thumbnail: /res/img/thumbnail-enric-moreu-riymmvoq3p8-unsplash.jpg
-banner: /res/img/hospitals2-banner.jpg
+thumbnail: /res/img/thumbnail-resized-enric-moreu-riymmvoq3p8-unsplash.jpg
+banner: /res/img/banner-1587351021766-957e6e0efb66.jpg
 isNews: false
 ---
 **When we talk about healthcare in rural Texas**, there are two problems that immediately come to the forefront. 
 The first, and the most impactful to ALL rural Texans, is the closure of community hospitals and clinics. In the absence of consistent and stable financial underpinnings, healthcare facilities, generally among a community’s larger employers, live a hand-to-mouth existence. The percentage of low-income rural Texans compared to their better-off neighbors is higher in a rural community than what we find in the urban environments. 
 
 This means that rural facilities experience a higher percentage of “uncompensated care”, which reduces the profits that sustain the facilities. This puts not just jobs but local healthcare at risk. And once the facility closes, the providers such as doctors, nurses, physical therapists, surgeons, etc. move on, too.
+
+![](/res/img/hospitals2-banner.jpg)
 
 The second problem affects us all as well, although some of those effects are hidden. Texans have more uninsured citizens than any other state, and we find the greatest percentage of those uninsured in our rural communities. Because they ae uninsured they experience greater numbers of untreated chronic conditions. 
 
