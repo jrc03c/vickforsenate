@@ -2,6 +2,8 @@
 layout: post
 title: The Challenge of Healthcare in Senate District 22 - Part 2
 author: October 3, 2020
+thumbnail: /res/img/thumbnail-enric-moreu-riymmvoq3p8-unsplash.jpg
+banner: /res/img/hospitals2-banner.jpg
 isNews: false
 ---
 **When we talk about healthcare in rural Texas**, there are two problems that immediately come to the forefront. 
@@ -42,3 +44,5 @@ By preserving an economic base for our local healthcare facilities we save jobs 
 It is well past time we expand Medicaid and keep our doctors and nurses in our (and their) communities.
 
 ![](/res/img/pic3-national-cancer-institute-3lt2peqdq5g-unsplash-resized.jpg)
+
+Photo credits: Banner - Texas Democratic Party; Thumbnail - Enric Moreu @unsplash; Closed Hospital - Progresstexas.org; Dollars - Vladimir Solomyani @unsplash; Caregiver - National Cancer Institute
