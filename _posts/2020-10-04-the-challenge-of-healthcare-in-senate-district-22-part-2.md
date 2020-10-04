@@ -36,7 +36,7 @@ Pic2 – Pipeline of dollars
 PIC2.1 County Chart.
 
 **And finally...**
-Medicaid expansion addresses the actual health needs of millions of our fellow Texans. It will make our state healthier by providing on-going, regular treatment for chronic conditions such as diabetes, heart disease, or hypertension – all treatable conditions. We can make premature death from 19th century illnesses a thing of the past.
+**Medicaid expansion addresses the actual health needs of millions of our fellow Texans.** It will make our state healthier by providing on-going, regular treatment for chronic conditions such as diabetes, heart disease, or hypertension – all treatable conditions. We can make premature death from 19th century illnesses a thing of the past.
 Stable facilities remaining in our rural communities mean that your life-saving treatments are nearby. When a person suffers a heart attack or is seriously injured in an accident the first hour is called the “golden hour”. It is critical that the hospital or operating room is NOT an hour’s drive away.
 By preserving an economic base for our local healthcare facilities we save jobs in our community.
 It is well past time we expand Medicaid and keep our doctors and nurses in our (and their) communities.
