@@ -33,9 +33,7 @@ And note that Medicaid pays a higher per-bed rate than state and county indigent
 
 **So how much money are we talking about?** Below is a county-level table that identifies, by county, how many newly-eligible citizens are expected, how many of those will navigate the application process and enroll (it is common for up to 20% of eligible individuals to not enroll), the amount of Federal tax revenue returned to the county, and the state’s nominal share (before offsets).
 
-PIC2.1 County Chart.
-
-![](/res/img/pic2.1-hospital2-county-chart-second-resized.jpg)
+![](/res/img/pic2.1-resize-3-hospital2-county-chart-second-resized.jpg)
 
 **And finally...**
 **Medicaid expansion addresses the actual health needs of millions of our fellow Texans.** It will make our state healthier by providing on-going, regular treatment for chronic conditions such as diabetes, heart disease, or hypertension – all treatable conditions. We can make premature death from 19th century illnesses a thing of the past.
