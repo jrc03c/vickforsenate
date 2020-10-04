@@ -47,4 +47,4 @@ It is well past time we expand Medicaid and keep our doctors and nurses in our (
 
 ![](/res/img/pic3-national-cancer-institute-3lt2peqdq5g-unsplash-resized.jpg)
 
-Photo credits: Banner - Texas Democratic Party; Thumbnail - Enric Moreu @unsplash; Closed Hospital - Progresstexas.org; Dollars - Vladimir Solomyani @unsplash; Caregiver - National Cancer Institute
+Photo credits: State Map - Texas Democratic Party; Thumbnail - Enric Moreu @unsplash; Closed Hospital - Progresstexas.org; Dollars - Vladimir Solomyani @unsplash; Caregiver - National Cancer Institute
