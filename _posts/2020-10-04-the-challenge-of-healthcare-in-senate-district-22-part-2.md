@@ -17,7 +17,7 @@ PIC1 – Shuttered Hospital
 
 **But there is a solution** - a means of providing an on-going financial base that lets healthcare facilities develop a sustainable budget, not dependent on an annual dogfight for state and county funds. And it doesn’t have to cost the local taxpayers a dime.
 
-A part of each person’s Federal Income Tax is returned to the states through a 90/10 percent funding mechanism when a state expands Medicaid under the Affordable Care Act. The Federal government returns those income tax dollars to cover 90% of Medicaid bills while the state contributes 10%. But in actual practice, the state can use offsets to potentially zero out their contribution. But since Texas has not expanded its Medicaid that portion of our income taxes is NOT returned to us, but rather used to fund those states that HAVE expanded Medicaid. Let’s bring that tax money back to Texas to help our own citizens.
+A part of each person’s Federal Income Tax is returned to the states through a 90/10 percent funding mechanism when a state expands Medicaid under the Affordable Care Act. The Federal government returns those income tax dollars to cover 90% of Medicaid bills while the state contributes 10%. But in actual practice, the state can use offsets to potentially zero out their contribution. However, since Texas has not expanded its Medicaid that portion of our income taxes is NOT returned to us, but rather used to fund those states that HAVE expanded Medicaid. Let’s bring that tax money back to Texas to help our own citizens.
 
 Examples of the offsets available to reduce a state’s contributions include: 
 
