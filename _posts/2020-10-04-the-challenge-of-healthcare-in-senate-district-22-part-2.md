@@ -13,9 +13,9 @@ This means that rural facilities experience a higher percentage of “uncompensa
 
 ![](/res/img/hospitals2-banner.jpg)
 
-The second problem affects us all as well, although some of those effects are hidden. Texans have more uninsured citizens than any other state, and we find the greatest percentage of those uninsured in our rural communities. Because they ae uninsured they experience greater numbers of untreated chronic conditions. 
+The second problem affects us all as well, although some of those effects are hidden. Texans have more uninsured citizens than any other state, and we find the greatest percentage of those uninsured in our rural communities. Because they are uninsured they experience greater numbers of untreated chronic conditions. 
 
-By law Emergency Rooms must treat any person in diabetic shock, but only to the point of saving their life and stabilizing them. They provide that “uncompensated care” and discharge the patient with no access to follow-up care, counseling, or maintenance medicines...until they have their next life-threatening occurrence. This uncompensated care is the obvious financial hit to the healthcare system, but the rest of the community takes a hidden financial hit too, in the form of higher medical charges, higher insurance deductibles, higher copays, and even higher local taxes.
+By law Emergency Rooms must treat any person in, say, diabetic shock, but only to the point of saving their life and stabilizing them. They provide that uncompensated care and discharge the patient - who has no access to follow-up care, counseling, or maintenance medicines - until they have their next life-threatening occurrence. This uncompensated care is the obvious financial hit to the healthcare system, but the rest of the community takes a hidden financial hit too, in the form of higher medical charges, higher insurance deductibles, higher copays, and even higher local taxes.
 
 ![](/res/img/hospital-building-pic1.jpg)
 
@@ -47,4 +47,4 @@ It is well past time we expand Medicaid and keep our doctors and nurses in our (
 
 ![](/res/img/pic3-national-cancer-institute-3lt2peqdq5g-unsplash-resized.jpg)
 
-Photo credits: Banner - Texas Democratic Party; Thumbnail - Enric Moreu @unsplash; Closed Hospital - Progresstexas.org; Dollars - Vladimir Solomyani @unsplash; Caregiver - National Cancer Institute
+Photo credits: State Map - Texas Democratic Party; Thumbnail - Enric Moreu @unsplash; Closed Hospital - Progresstexas.org; Dollars - Vladimir Solomyani @unsplash; Caregiver - National Cancer Institute
