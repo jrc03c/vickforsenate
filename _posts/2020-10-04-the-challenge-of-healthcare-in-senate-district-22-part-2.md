@@ -13,7 +13,7 @@ The second problem affects us all as well, although some of those effects are hi
 
 By law Emergency Rooms must treat any person in diabetic shock, but only to the point of saving their life and stabilizing them. They provide that “uncompensated care” and discharge the patient with no access to follow-up care, counseling, or maintenance medicines...until they have their next life-threatening occurrence. This uncompensated care is the obvious financial hit to the healthcare system, but the rest of the community takes a hidden financial hit too, in the form of higher medical charges, higher insurance deductibles, higher copays, and even higher local taxes.
 
-PIC1 – Shuttered Hospital
+![](/res/img/hospital-building-pic1.jpg)
 
 **But there is a solution** - a means of providing an on-going financial base that lets healthcare facilities develop a sustainable budget, not dependent on an annual dogfight for state and county funds. And it doesn’t have to cost the local taxpayers a dime.
 
@@ -29,11 +29,13 @@ Recent estimates have taken into account potential offsets and multiplier effect
 
 And note that Medicaid pays a higher per-bed rate than state and county indigent care provides, further improving facilities’ financial stability.
 
-Pic2 – Pipeline of dollars
+![](/res/img/hospital-pic2-vladimir-solomyani-rkpiuxlq29a-unsplash-resized.jpg)
 
 **So how much money are we talking about?** Below is a county-level table that identifies, by county, how many newly-eligible citizens are expected, how many of those will navigate the application process and enroll (it is common for up to 20% of eligible individuals to not enroll), the amount of Federal tax revenue returned to the county, and the state’s nominal share (before offsets).
 
 PIC2.1 County Chart.
+
+![](/res/img/pic2.1-hospital2-county-chart-second-resized.jpg)
 
 **And finally...**
 **Medicaid expansion addresses the actual health needs of millions of our fellow Texans.** It will make our state healthier by providing on-going, regular treatment for chronic conditions such as diabetes, heart disease, or hypertension – all treatable conditions. We can make premature death from 19th century illnesses a thing of the past.
@@ -42,3 +44,5 @@ By preserving an economic base for our local healthcare facilities we save jobs 
 It is well past time we expand Medicaid and keep our doctors and nurses in our (and their) communities.
 
 Pic3 – Smiling Caregivers
+
+![](/res/img/pic3-national-cancer-institute-3lt2peqdq5g-unsplash-resized.jpg)
