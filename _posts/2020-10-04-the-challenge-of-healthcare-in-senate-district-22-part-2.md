@@ -43,6 +43,4 @@ Stable facilities remaining in our rural communities mean that your life-saving 
 By preserving an economic base for our local healthcare facilities we save jobs in our community.
 It is well past time we expand Medicaid and keep our doctors and nurses in our (and their) communities.
 
-Pic3 – Smiling Caregivers
-
 ![](/res/img/pic3-national-cancer-institute-3lt2peqdq5g-unsplash-resized.jpg)
