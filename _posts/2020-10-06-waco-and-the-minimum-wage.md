@@ -3,7 +3,7 @@ layout: post
 title: Waco and the Minimum Wage
 author: October 6, 2020
 tags: Minimum wage Waco McLennan
-thumbnail: /res/img/2-thmb-marla-shadows2.jpg
+thumbnail: /res/img/dr-pepper-sign.jpg
 banner: /res/img/1-banner-magnolia-downtown.jpg
 isNews: false
 ---
