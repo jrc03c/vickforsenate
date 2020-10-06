@@ -9,11 +9,11 @@ My congratulations to the members of the Waco City Council and McLennan County C
 
 This is what forward thinking governance looks like. The Economic Development Corporation has produced recognizable and measurable benefits to Waco and McLennan County for years. 
 
-While this (and similar economic sweeteners) is a step in the right direction, their limitations quickly become apparent. By tying a higher minimum wage to the economic assistance given businesses that apply, they help some of our workers. But to help all, our city council would have to mandate a raise in the minimum wage, throughout the city. And that they can’t do.
+While this (and similar economic sweeteners) is a step in the right direction, the limitations quickly become apparent. By tying a higher minimum wage to the economic assistance given businesses that apply, they help some of our workers. But to help all, our city council would have to mandate a raise in the minimum wage, throughout the city. And that they can’t do.
 
 The Texas Labor Code, the state law that governs the minimum wage says that the state minimum wage supersedes any wage set by city or county ordinance.
 
-PIC1 – Coins
+![](/res/img/pic1-shot-by-cerqueira-myez0asmj7c-unsplash.jpg)
 
 Although the city council knows that the cost of living in Waco is far greater than, say, Progreso, a small city in the Valley, they can do nothing about it. Even though many, if not most of our “essential workers” have to supplement their earning through public assistance, they can’t address the root cause, the minimum wage. This leaves us, the taxpayers, to subsidize the employers’ wages for their staffs.
 
@@ -23,7 +23,7 @@ Another insidious effect of the current model – where employers pay only about
 
 So what’s the fix? 
 
-PIC2-2 Guys
+![](/res/img/pc2-k-mitch-hodge-esi7nknkxmw-unsplash.jpg)
 
 Simply, we need a state legislature that will raise the minimum wage to a *living wage*. Such a raise, to $15/hour, would raise the pay of 43% of all the workers in McLennan County. It is a truism of economics that “we all do better when we all do better”. 
 
@@ -33,4 +33,4 @@ The roadblock to raising the minimum wage is in our State Senate. Because the Re
 
 To eliminate that Senate supermajority, we have to flip just one seat from the Republicans to the Democrats. That’s why I’m running to be your Texas State Senator for this district. To flip that seat and work to raise the minimum wage.
 
-Robert
+![](/res/img/robert-portrait-square-med.jpg)
