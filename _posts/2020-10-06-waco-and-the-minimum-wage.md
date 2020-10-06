@@ -7,8 +7,6 @@ thumbnail: /res/img/1-thmb-marla-shadows2.jpg
 banner: /res/img/1-banner-magnolia-downtown.jpg
 isNews: false
 ---
-
-
 My congratulations to the members of the Waco City Council and McLennan County Commission on their recent approval; 1) the incentives for Texas Meter & Device, contingent of their preserving the 60 local manufacturing positions and continuance of the $12/hour minimum wage, and 2) raising the wage threshold for future grant applicants to pay a $15/hour minimum wage, and an overall average wage of $17.50/hour. 
 
 This is what forward thinking governance looks like. The Economic Development Corporation has produced recognizable and measurable benefits to Waco and McLennan County for years. 
@@ -39,4 +37,4 @@ To eliminate that Senate supermajority, we have to flip just one seat from the R
 
 ![](/res/img/robert-portrait-square-sm.jpg)
 
-#### **I'm Robert Vick and I will value your vote and represent you, not West Texas billionaires.**
+#### **Vote Senate District 22, Robert Vick and I will value your vote and represent you, not West Texas billionaires.**
