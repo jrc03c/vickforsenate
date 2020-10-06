@@ -33,4 +33,4 @@ The roadblock to raising the minimum wage is in our State Senate. Because the Re
 
 To eliminate that Senate supermajority, we have to flip just one seat from the Republicans to the Democrats. That’s why I’m running to be your Texas State Senator for this district. To flip that seat and work to raise the minimum wage.
 
-![](/res/img/robert-portrait-square-med.jpg)
+![](/res/img/robert-portrait-square-sm.jpg)
