@@ -3,6 +3,8 @@ layout: post
 title: Waco and the Minimum Wage
 author: October 7, 2020
 tags: Minimum Wage
+thumbnail: /res/img/dr-pepper-sign.jpg
+banner: /res/img/1-banner-magnolia-downtown.jpg
 isNews: false
 ---
 **Congratulations to the members of the Waco City Council** on approving; 1) the incentives for Texas Meter & Device, contingent of their preserving the 60 local manufacturing positions and continuance of the $12/hour minimum wage, and 2) raising the wage threshold for future grant applicants to pay a $15/hour minimum wage, and an overall average wage of $17.50/hour. 
