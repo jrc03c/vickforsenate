@@ -27,7 +27,7 @@ PIC3
 
 Another insidious effect of the current model – where employers pay only about half of the “living wage” their workers require - is the stifling of these workers’ ambitions. As they develop more and better skills any merit increase in pay is met with a decrease in the public assistance they receive. For every promotion they receive a net zero increase in their compensation. You don’t have to know a lot about human nature to see that we are dis-incentivizing our minimum wage workers to work their way out of poverty. This is not how capitalism is supposed to work.
 
-### So what’s the fix? 
+### So what’s the fix?
 
 **First of all, the “fix” requires state legislative action.** No city or county government can address the issue of the “working poor” without the legislature nullifying the section of Texas Labor Code prohibiting municipalities from setting a local minimum wage higher than the state minimum.
 To that end, we need change in the legislature. Currently the state House of Representatives is nearing parity between Democrats and Republicans (the party that has been attacking local control). 
@@ -44,10 +44,9 @@ To avoid that “Washington gridlock” scenario in Austin after this November e
 
 **So the road to increasing the minimum wage in Waco and McLennan County runs through the Senate, and that is why I am running to be your Texas State Senator for this district.** I pledge that in the Senate I will introduce legislation to return local control to our elected officials – officials that know our circumstances. 
 
-They know the cost-of-living here. They know what the property rates should be here. They know what franchise fees cable and telephone companies should pay for use of our city poles and infrastructure here. And they know how to balance the local citizens business and labor needs so we can eliminate the “working poor” and incentivize our labor force to develop more and better skills and raise the economy for ALL the citizens.
+They know the cost-of-living here. They know what the property tax rates should be here. They know what franchise fees cable and telephone companies should pay for use of our city poles and infrastructure here. And they know how to balance the local citizens business and labor needs so we can eliminate the “working poor” and incentivize our labor force to develop more and better skills and raise the economy for ALL the citizens.
 
 Robert
 
 *Photo Credits include:
-Ryan Quintal @ Unsplash.com
-The Great State of Texas*
+Ryan Quintal @ Unsplash.com and The Great State of Texas*
