@@ -17,3 +17,5 @@ Robert has been endorsed by the following individuals and groups!
 - [Tarrant County Central Labor Council](/res/misc/tarrant-county-central-labor-council-endorsement.pdf)
 - [Texas Democratic Women](/res/misc/texas-democratic-women-endorsement.pdf)
 - [Chisholm Trail Stonewall Democrats](/res/misc/chisholm-trail-stonewall-democrats-endorsement.pdf)
+
+Robert has also been [recognized](/res/misc/moms-demand-action-recognition.pdf) as a _Guns Sense Candidate_ by Moms Demand Action.
